@@ -1,6 +1,6 @@
 - 👋 Hi word, I’m @pamgumach
-- 👀 I’m interested in Java, SQl, VHDL, Matlab
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Java, SQL, VHDL, Matlab
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
 - 🏋️‍♀️ I like the life fit & healthy
 - 📫 How to reach me (in construction)
 
