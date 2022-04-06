@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Laravel, Vue
 - 🏋️‍♀️ I like the life fit & healthy
 - 📫 How to reach me (in construction)
+- 👩🏽‍💻 Mi CV 
+[CV Pamela Gusqui GENERAL.pdf](https://github.com/pamgumach/pamgumach/files/8424286/CV.Pamela.Gusqui.GENERAL.pdf)
 
 <!---
 pamgumach/pamgumach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
